@@ -1,4 +1,3 @@
-# DataMiningProject
 <h3> INTRODUCTION </h3>
 
 <h4> 1. Reason for choosing the topic </h4>
